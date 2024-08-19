@@ -29,6 +29,7 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"ms-python.python",
+				"ms-toolsai.jupyter",
 				"tomoki1207.pdf",
 				"mechatroner.rainbow-csv"
 			]
